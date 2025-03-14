@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Otenevictor
 - 👀 I’m interested in ...Creative Innovation
-- 🌱 I’m currently learning ...FrontEnd
-- 💞️ I’m looking to collaborate on ...FrontEnd Projects
+- 🌱 I’m currently learning ..Software
+- 💞️ I’m looking to collaborate on ...Software Projects
 - 📫 How to reach me ...
 
 <!---
